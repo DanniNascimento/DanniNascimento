@@ -14,6 +14,8 @@
  <img eigth= "180em" src="https://github-readme-stats.vercel.app/api?username=DanniNascimento&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/DanniNascimento/github-readme-stats#gh-dark-mode-only" />
 
 <img heigth= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanniNascimento&layout=compact" />   
+
+<img heigth= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanniNascimento&langs_count=8" />
   
 </div>
 
