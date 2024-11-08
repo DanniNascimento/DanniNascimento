@@ -2,11 +2,24 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+sou+o+Danni+Nascimento!;" />
 </h1>
 
-- 🏜️ Atualmente estou trabalhando: Vallourec Solucoes Tubulares ...
-- 📖 Estudando: front-end / Back-end / software engineering...
-- 💬 Pergunte-me sobre ...
-- 😄 Pronomes: Ele / Dele...
-- ⚡ Fato engraçado: ...
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+Sou **Desenvolvedor de Software** em formação, formado em **Análise e Desenvolvimento de Sistemas** pela **UNOPAR** e atualmente cursando **Engenharia de Software** pela **DNC**. Além disso, estou expandindo meus conhecimentos com cursos de **Back-End** e **Front-End** pela **Alura**.
+
+## 🧑‍💻 Tecnologias que estou aprendendo:
+- **Back-End:** Java, Api, Phyton, C#
+- **Front-End:** HTML, CSS, JavaScript
+- **Ferramentas:** Git, GitHub, APIs RESTful
+
+## 🚀 Projetos Recentes:
+- **Buscador de Cidades Históricas**: Durante a **Imersão Alura**, desenvolvi um buscador de cidades históricas como parte de um projeto prático. Ele permite a pesquisa e visualização de dados históricos de cidades, utilizando **JavaScript** e **APIs públicas**.
+
+## 💡 O que me motiva:
+Sou apaixonado por tecnologia e estou sempre buscando aprender novas ferramentas e técnicas. Meu foco está em resolver problemas práticos e criar soluções que sejam eficientes e úteis para os usuários.
+
+## 📫 Vamos conversar:
+
+Estou em busca de novas oportunidades para aplicar meus conhecimentos e continuar crescendo como desenvolvedor. Se você acha que posso contribuir para algum projeto ou equipe, entre em contato!
 
 <div>
   <a href="https://github.com/DanniNascimento">
